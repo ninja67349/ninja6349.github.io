@@ -1,2 +1,1 @@
-# ninja6349.github.io
-My website
+# This is the repository for my very own website
